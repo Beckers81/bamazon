@@ -43,3 +43,7 @@ However, if your store does have enough of the product, you should fulfill the c
 
 This means updating the SQL database to reflect the remaining quantity.
 Once the update goes through, show the customer the total cost of their purchase.
+
+
+
+![Webp net-gifmaker (10)](https://user-images.githubusercontent.com/45379195/54886124-ea2e6900-4e49-11e9-9fde-770431919fb2.gif)
